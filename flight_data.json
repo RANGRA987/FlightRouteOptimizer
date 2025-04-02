@@ -1,0 +1,33 @@
+{
+    "delhi": {
+        "chandigarh": 250,
+        "mumbai": 1700,
+        "bengalore": 2450
+    },
+    "chandigarh": {
+        "delhi": 250,
+        "mumbai": 2300,
+        "shimla": 150,
+        "bhubaneswar": 2000
+    },
+    "mumbai": {
+        "chandigarh": 2100,
+        "delhi": 1300,
+        "gujrat": 350
+    },
+    "bengalore": {
+        "west bengal": 2200,
+        "delhi": 2450
+    },
+    "shimla": {
+        "gujrat": 2750,
+        "chandigarh": 150
+    },
+    "gujrat": {
+        "shimla": 2550,
+        "mumbai": 350
+    },
+    "bhubaneswar": {
+        "chandigarh": 2000
+    }
+}
